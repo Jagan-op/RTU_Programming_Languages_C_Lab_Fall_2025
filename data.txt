@@ -1,0 +1,2 @@
+Hello, file I/O in C!
+The world shall know pain this the title of my new novel 
