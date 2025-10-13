@@ -39,7 +39,7 @@ int main() {
       printf("Invalid input.\n");
       free(students);  // Free memory before exit on error
       return 1;
-    }
+    }        
   }
 
   // Print all student records in a formatted table
