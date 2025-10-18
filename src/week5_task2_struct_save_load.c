@@ -37,7 +37,7 @@ int load_student(const char *filename, Student *s) {
 }
 
 int main(void) {
-  Student s1 = {"Tony", 30, 4.75f};
+  Student s1 = {"maddy", 1000, 10.75f};
   Student s2;
 
   printf("Saving student to file...\n");
